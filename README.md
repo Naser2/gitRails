@@ -1,3 +1,3 @@
 # gitRails
 
-This will be about practice rails but not limited.
+This will be a good practice on rails but not limited.
