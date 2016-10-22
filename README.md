@@ -1,3 +1,3 @@
 # helloWorldRails
 
-This wiil be about practice rails but not limited.
+This will be about practice rails but not limited.
